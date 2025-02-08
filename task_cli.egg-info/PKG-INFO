@@ -1,0 +1,26 @@
+Metadata-Version: 2.2
+Name: task-cli
+Version: 0.1.0
+Summary: A simple task manager CLI
+Home-page: https://github.com/yourusername/task-cli
+Author: JPG
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: summary
+
+# Task CLI
+
+A simple task manager CLI tool written in Python.
+
+## Installation
+```bash
+git clone https://github.com/jpg/task-cli.git
+cd task-cli
+pip install .
